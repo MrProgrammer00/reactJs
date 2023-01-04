@@ -9,7 +9,7 @@ function App() {
       <Navbar />
       <Menulist />
       <Main>  </Main>
-      <h1>hello</h1>
+      
     </div>
   );
 }
